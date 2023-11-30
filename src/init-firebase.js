@@ -5,8 +5,8 @@ import 'firebase/analytics'
 
 const firebaseConfig = {
     apiKey: 'AIzaSyCSKvs0aZgaa_Jcmvd8q0MhOsjlTtvlLic',
-    authDomain: 'swift-share.firebaseapp.com',
-    databaseURL: 'https://swift-share.firebaseio.com',
+    authDomain: 'airdrop.firebaseapp.com',
+    databaseURL: 'https://airdrop.firebaseio.com',
     projectId: 'airdrop-9e242',
     storageBucket: 'airdrop-9e242.appspot.com',
     messagingSenderId: '400572723438',
